@@ -1,0 +1,6 @@
+{
+  "name": "Personal Expense Analytics",
+  "description": "An interactive full-stack dashboard for personal finance tracking, data visual analytics, and server-side AI expense advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
